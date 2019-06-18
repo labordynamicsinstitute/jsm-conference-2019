@@ -11,7 +11,7 @@ With the ever-increasing amount of data collected everyday, data confidentiality
 
 ## Panelists
 - Simson L. Garfinkel, U.S. Census Bureau; 
-- Keith Spicer - Head of Statistical Disclosure Control, Office for National Statistics, UK; 
+- Juan Lavista, Microsoft; 
 - Ilya Mironov, Google.
 
 ## Chair
