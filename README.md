@@ -12,7 +12,8 @@ With the ever-increasing amount of data collected everyday, data confidentiality
 ## Panelists
 - Simson L. Garfinkel, U.S. Census Bureau; 
 - Juan Lavista Ferres, Microsoft; 
-- Ilya Mironov, Google.
+- Ilya Mironov, Google;
+- Shiva Kasiviswanathan, Amazon
 
 ## Chair
 [Aleksandra Slavković](http://personal.psu.edu/abs12/)
