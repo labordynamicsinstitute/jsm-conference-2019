@@ -1,7 +1,7 @@
 # Formal privacy: Making an impact at large organizations
 
 ## Context
-A session at the [2019 Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?SessionID=218070), sponsored by the [ASA Committee on Privacy and Confidentiality](https://community.amstat.org/cpc/home).
+A session at the [2019 Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=304319), sponsored by the [ASA Committee on Privacy and Confidentiality](https://community.amstat.org/cpc/home).
 
 ## Organizer
 [Lars Vilhuber](https://lars.vilhuber.com)
