@@ -17,3 +17,13 @@ With the ever-increasing amount of data collected everyday, data confidentiality
 
 ## Chair
 [Aleksandra Slavković](http://personal.psu.edu/abs12/)
+
+## Biographies
+
+### Juan Lavista Ferres
+
+> Juan Miguel Lavista is currently the Senior Director of Data Science for Microsoft AI For Good where he works with a team of data scientists in AI, Machine Learning and statistical modeling, working across Microsoft AI for Good initiatives. Juan joined Microsoft in 2009 to work for the Microsoft Experimentation Platform (EXP) where he designed and ran randomized control experiments across different Microsoft groups. Juan also worked as part of the Bing Data Mining team, where he led a group applying data mining, machine learning, statistical modeling and online experimentation at a large scale as well as providing data services for Bing.
+
+> Juan is involved in working to define the data science discipline within Microsoft, and is currently the editor of the Microsoft Journal of Applied Research (MSJAR).
+
+> Before joining Microsoft, Juan was the CTO and co-founder of alerts.com. Previously, he spent 6 years in Washington working at the InterAmerican Development Bank applying data science to understand the impact of programs for reducing poverty and inequality in Latin-America and the Caribbean. Juan has two computer science degrees from the Catholic University in Uruguay, and a graduate degree in Data Mining from Johns Hopkins University.
