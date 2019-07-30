@@ -27,3 +27,6 @@ With the ever-increasing amount of data collected everyday, data confidentiality
 > Juan is involved in working to define the data science discipline within Microsoft, and is currently the editor of the Microsoft Journal of Applied Research (MSJAR).
 
 > Before joining Microsoft, Juan was the CTO and co-founder of alerts.com. Previously, he spent 6 years in Washington working at the InterAmerican Development Bank applying data science to understand the impact of programs for reducing poverty and inequality in Latin-America and the Caribbean. Juan has two computer science degrees from the Catholic University in Uruguay, and a graduate degree in Data Mining from Johns Hopkins University.
+
+### Shiva Kasiviswanathan
+> Shiva Kasiviswanathan is a Senior Applied Scientist at Amazon. He graduated with a PhD in Computer Science from Pennsylvania State University in 2008, and has since worked as a researcher at various research labs. His research interests span differential privacy and machine learning. His research contributions have been successfully implemented into various commercial products at IBM, GE, Samsung, and Amazon. He has published more than 50 peer-reviewed publications, including top conference venues such as ICML, NIPS, KDD, STOC, FOCS, and VLDB.
