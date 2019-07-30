@@ -6,17 +6,19 @@ A session at the [2019 Joint Statistical Meetings](https://ww2.amstat.org/meetin
 ## Organizer
 [Lars Vilhuber](https://lars.vilhuber.com)
 
+## Chair
+[Aleksandra Slavković](http://personal.psu.edu/abs12/)
+
+
 ## Abstract
 With the ever-increasing amount of data collected everyday, data confidentiality is more and more at risk. Many of the traditional approaches to statistical disclosure control are no longer sufficient to protect the confidentiality of the data. Formal privacy guarantees - provable privacy guarantees that hold regardless of assumed knowledge and attack strategy of a malicious user - are becoming increasingly important for large producers of statistics, such as national statistical agencies or large private companies. These organizations need to design and engineer systems with effective formally private disclosure limitation systems. This session brings together experts who have developed, proposed, and implemented formal privacy models such as variants of differential privacy in various large organizations. The presentations will inform attendees of challenges that were identified, how they were met, and the outlook for future implementations.
 
 ## Panelists
-- Simson L. Garfinkel, U.S. Census Bureau; 
+- [Simson L. Garfinkel](https://simson.net/page/Bio), U.S. Census Bureau; 
 - Juan Lavista Ferres, Microsoft; 
 - Ilya Mironov, Google;
 - Shiva Kasiviswanathan, Amazon
 
-## Chair
-[Aleksandra Slavković](http://personal.psu.edu/abs12/)
 
 ## Biographies
 
@@ -36,6 +38,10 @@ With the ever-increasing amount of data collected everyday, data confidentiality
 > Juan is involved in working to define the data science discipline within Microsoft, and is currently the editor of the Microsoft Journal of Applied Research (MSJAR).
 
 > Before joining Microsoft, Juan was the CTO and co-founder of alerts.com. Previously, he spent 6 years in Washington working at the InterAmerican Development Bank applying data science to understand the impact of programs for reducing poverty and inequality in Latin-America and the Caribbean. Juan has two computer science degrees from the Catholic University in Uruguay, and a graduate degree in Data Mining from Johns Hopkins University.
+
+### Ilya Mironov
+
+> Ilya Mironov is a computer scientist working in privacy, cryptography, and machine learning. While in Microsoft Research - Silicon Valley (2003-2014), he became active in the community centered around the definition of differential privacy, studying its applications, limitations, and relaxations. In Google, he worked on large-scale deployment of differentially private mechanisms across several product areas.
 
 ### Shiva Kasiviswanathan
 > Shiva Kasiviswanathan is a Senior Applied Scientist at Amazon. He graduated with a PhD in Computer Science from Pennsylvania State University in 2008, and has since worked as a researcher at various research labs. His research interests span differential privacy and machine learning. His research contributions have been successfully implemented into various commercial products at IBM, GE, Samsung, and Amazon. He has published more than 50 peer-reviewed publications, including top conference venues such as ICML, NIPS, KDD, STOC, FOCS, and VLDB.
