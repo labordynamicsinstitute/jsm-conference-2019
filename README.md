@@ -20,6 +20,15 @@ With the ever-increasing amount of data collected everyday, data confidentiality
 
 ## Biographies
 
+### Simson Garfinkel
+
+> Simson Garfinkel is the Senior Computer Scientist for Confidentiality and Data Access at the US Census Bureau. He holds seven US patents and has published more than 50 research articles in computer security and digital forensics. He is a fellow of the Association for Computing Machinery (ACM) and the Institute of Electrical and Electronics Engineers (IEEE), and a member of the National Association of Science Writers. His most recent book is The Computer Book, which features 250 chronologically arranged milestones in the history of computing. As a journalist, he has written about science, technology, and technology policy in the popular press since 1983, and has won several national journalism awards.
+
+> Garfinkel received three Bachelor of Science degrees from MIT in 1987, a Master's of Science in Journalism from Columbia University in 1988, and a Ph.D. in Computer Science from MIT in 2005.
+
+([source](https://simson.net/page/Bio))
+
+
 ### Juan Lavista Ferres
 
 > Juan Miguel Lavista is currently the Senior Director of Data Science for Microsoft AI For Good where he works with a team of data scientists in AI, Machine Learning and statistical modeling, working across Microsoft AI for Good initiatives. Juan joined Microsoft in 2009 to work for the Microsoft Experimentation Platform (EXP) where he designed and ran randomized control experiments across different Microsoft groups. Juan also worked as part of the Bing Data Mining team, where he led a group applying data mining, machine learning, statistical modeling and online experimentation at a large scale as well as providing data services for Bing.
