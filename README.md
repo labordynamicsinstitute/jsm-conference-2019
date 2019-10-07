@@ -15,8 +15,8 @@ With the ever-increasing amount of data collected everyday, data confidentiality
 
 ## Panelists
 - [Simson L. Garfinkel](https://simson.net/page/Bio), U.S. Census Bureau; 
-- Juan Lavista Ferres, Microsoft; 
-- Ilya Mironov, Google;
+- [Juan Lavista Ferres](https://www.linkedin.com/in/jlavista/), Microsoft; 
+- [Ilya Mironov](https://github.com/ilyamironov), Google;
 - Shiva Kasiviswanathan, Amazon
 
 
@@ -30,6 +30,7 @@ With the ever-increasing amount of data collected everyday, data confidentiality
 
 ([source](https://simson.net/page/Bio))
 
+[Presentation](presentations/2019-07-31 Deploying Differential Privacy for the 2020 Census JSM (APPROVED).pptx)
 
 ### Juan Lavista Ferres
 
@@ -39,9 +40,13 @@ With the ever-increasing amount of data collected everyday, data confidentiality
 
 > Before joining Microsoft, Juan was the CTO and co-founder of alerts.com. Previously, he spent 6 years in Washington working at the InterAmerican Development Bank applying data science to understand the impact of programs for reducing poverty and inequality in Latin-America and the Caribbean. Juan has two computer science degrees from the Catholic University in Uruguay, and a graduate degree in Data Mining from Johns Hopkins University.
 
+[Presentation](presentations/Presentation_first_submit_Pedro_SL.pptx)
+
 ### Ilya Mironov
 
 > Ilya Mironov is a computer scientist working in privacy, cryptography, and machine learning. While in Microsoft Research - Silicon Valley (2003-2014), he became active in the community centered around the definition of differential privacy, studying its applications, limitations, and relaxations. In Google, he worked on large-scale deployment of differentially private mechanisms across several product areas.
+
+[Presentation](presentations/Mironov-ASA presentation.pdf)
 
 ### Shiva Kasiviswanathan
 > Shiva Kasiviswanathan is a Senior Applied Scientist at Amazon. He graduated with a PhD in Computer Science from Pennsylvania State University in 2008, and has since worked as a researcher at various research labs. His research interests span differential privacy and machine learning. His research contributions have been successfully implemented into various commercial products at IBM, GE, Samsung, and Amazon. He has published more than 50 peer-reviewed publications, including top conference venues such as ICML, NIPS, KDD, STOC, FOCS, and VLDB.
