@@ -30,7 +30,7 @@ With the ever-increasing amount of data collected everyday, data confidentiality
 
 ([source](https://simson.net/page/Bio))
 
-[Presentation](presentations/2019-07-31 Deploying Differential Privacy for the 2020 Census JSM (APPROVED).pptx)
+[Presentation](presentations/2019-07-31%20Deploying%20Differential%20Privacy%20for%20the%202020%20Census%20JSM%20(APPROVED).pptx)
 
 ### Juan Lavista Ferres
 
