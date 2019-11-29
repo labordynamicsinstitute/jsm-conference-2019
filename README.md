@@ -30,7 +30,7 @@ With the ever-increasing amount of data collected everyday, data confidentiality
 
 ([source](https://simson.net/page/Bio))
 
-[Presentation](presentations/2019-07-31 Deploying Differential Privacy for the 2020 Census JSM (APPROVED).pptx)
+[Presentation](presentations/2019-07-31%20Deploying%20Differential%20Privacy%20for%20the%202020%20Census%20JSM%20(APPROVED).pptx)
 
 ### Juan Lavista Ferres
 
@@ -46,7 +46,7 @@ With the ever-increasing amount of data collected everyday, data confidentiality
 
 > Ilya Mironov is a computer scientist working in privacy, cryptography, and machine learning. While in Microsoft Research - Silicon Valley (2003-2014), he became active in the community centered around the definition of differential privacy, studying its applications, limitations, and relaxations. In Google, he worked on large-scale deployment of differentially private mechanisms across several product areas.
 
-[Presentation](presentations/Mironov-ASA presentation.pdf)
+[Presentation](presentations/Mironov-ASA%20presentation.pdf)
 
 ### Shiva Kasiviswanathan
 > Shiva Kasiviswanathan is a Senior Applied Scientist at Amazon. He graduated with a PhD in Computer Science from Pennsylvania State University in 2008, and has since worked as a researcher at various research labs. His research interests span differential privacy and machine learning. His research contributions have been successfully implemented into various commercial products at IBM, GE, Samsung, and Amazon. He has published more than 50 peer-reviewed publications, including top conference venues such as ICML, NIPS, KDD, STOC, FOCS, and VLDB.
